@@ -1,0 +1,3 @@
+Write a Login Web Service that has a single method validateUser(username, password)
+The web service should validate the given user credentials against a  Hashmap collection stored in the service class. The HashMap stores data in key-value pairs as username-password
+Create a client application that calls this web service to ccheck validaity of user
