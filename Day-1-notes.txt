@@ -1,0 +1,29 @@
+JAX-WS : Java API for XML - Web Service
+JAX-RS : Java API for XML - REST Service
+
+
+JAX-WS  ---> JWS
+
+prior to JDK 1.6  ---  ver 1.0 : JAX-RPC  -- jars
+JDK 1.6 : Ver 2.0 : JAX-WS
+
+java.sql
+
+JDBC - spec as well as API
+rules or guidelines
+
+API:
+DriverManager.registerDriver(driver);
+Connection conn = DriverManager.getConnection(url)
+
+Spec:
+Connection, Statement, Resultset, Pre, 
+
+
+
+@WebService
+@WebMethod  - to exclude certain methods from becoming web methods
+@SoapBinding
+
+
+
